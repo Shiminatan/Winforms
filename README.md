@@ -13,3 +13,5 @@ Obs: Para obter o token de acesso seguir a descrição do manual de integração
 * Além disso é necessário habilitar a integração externa dentro do **Ponto Secullum Web**, via menu Manutenção > Integração com Sistemas.
 * Leia o [Manual da Integração](https://github.com/Secullum/PontoWebIntegracaoExternaExemplo/blob/master/Integracao_Externa_Ponto_Web.pdf) atentamente para entender o fluxo de dados.
 * Em caso de dúvidas, consulte seu suporte técnico.
+
+Essa ferramenta tem uma alteração feita por moim , no qual é possivel importar em massa uma lista de funcionários com fotos junto para serem usadas no reconhecimento facial
